@@ -24,6 +24,7 @@ business-driven insights related to customer behavior and product performance.
 ---
 
 ## Project Structure
+```
 .
 ├── sql/
 │   ├── 00_data_quality_assessment.sql
@@ -34,6 +35,7 @@ business-driven insights related to customer behavior and product performance.
 │
 └── report/
     └── E-Commerce_Analytics_Report.pdf
+```
 
 ---
 
